@@ -1,7 +1,7 @@
 Psychopy Click Response Times Experiment
 =========================================
 
-This is a [PsychoPy](https://psychopy.org/) project consisting of an experimental task with trials where the participant is prompted to click numbers in ascending order. Its main purpose is to measure participants' click response times, which can then be used for generating a baseline to which response times for other experiments can be compared.
+This is a `Psychopy <https://psychopy.org/>`_ project consisting of an experimental task with trials where the participant is prompted to click numbers in ascending order. Its main purpose is to measure participants' click response times, which can then be used for generating a baseline to which response times for other experiments can be compared.
 
 Placement of target numbers is randomly generated in a way that prevents overlapping targets. 
 
